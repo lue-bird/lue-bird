@@ -1,4 +1,4 @@
-🐦 Hi, I’m lue
+🐦 Hi, lue here
 
 <!---
 lue-bird/lue-bird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
