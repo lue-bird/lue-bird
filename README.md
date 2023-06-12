@@ -1,7 +1,6 @@
-🐦 lue says hi!
+🐦 hi
 
-  - <a rel="me" href="https://fimidi.com/@lue">Mastodon @lue@fimidi.com</a>
-  - @lue-bird:matrix.org
+Wanna chat outside of mastodon? @lue-bird:matrix.org
 
 <!---
 lue-bird/lue-bird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
